@@ -1,0 +1,15 @@
+Nom du questionnaire : date_butoir_dépassée
+Nombre de questions : 1
+Date création : 2025-02-22
+Date soumission : 2025-03-22
+Date butoir : 2025-03-22
+
+Question 1 :
+(***)
+Cet exemple va-t-il pouvoir être importé ?
+A : Non, il plantera au chargement
+B : Oui, mais le programme principal refusera de l'ouvrir
+C : No prob, j'ai pas codé la moindre utilité à la date butoir
+D : Le programme principal râlera un peu, mais en insistant, ça passe
+
+rep : D

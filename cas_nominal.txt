@@ -1,0 +1,27 @@
+Nom du questionnaire : Melting pot
+Nombre de questions : 2
+Date création : 2025-02-22
+Date soumission : 2025-03-15
+Date butoir : 2026-04-15
+
+Question 1 :
+(*)
+(1/2)^2 =
+A : 0
+B : 1/4
+C : 1/2
+D : 3/4
+E : 5/4
+
+rep : B
+
+Question 2 :
+(***)
+Combien de lundis peut-il y avoir au maximum dans une période de 75 jours consécutifs ?
+A : 10
+B : 11
+C : 12
+D : 13
+E : 15
+
+rep : B

@@ -1,0 +1,24 @@
+Nom du questionnaire : non_soumis
+Nombre de questions : 2
+Date création : 2025-02-22
+Pas encore soumis.
+
+Question 1 :
+(*)
+Quelle était la couleur du cheval blanc de Napoléon ?
+A : Blanc
+B : Bleu
+C : Belge
+D : Ça dépend de quel Napoléon on parle
+
+rep : A
+
+Question 2 :
+(*)
+Combien font 2 + 2 ?
+A : 2
+B : 4
+C : 22
+D : La réponse D
+
+rep : A

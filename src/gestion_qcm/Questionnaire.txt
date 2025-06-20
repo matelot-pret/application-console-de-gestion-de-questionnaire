@@ -1,0 +1,12 @@
+Nom du questionnaire : Quest
+Nombre de questions : 1
+Date de création : 2025-04-21
+Date de soumission : 2025-04-21
+Date Butoir : 2025-05-21
+
+Question 1
+(**)
+lang
+ A : fr
+ B : an
+ rep : B
