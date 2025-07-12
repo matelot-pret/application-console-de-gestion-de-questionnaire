@@ -1,5 +1,8 @@
 # Application Console de Gestion de Questionnaire
 
+> **📚 Projet académique - Java première année**  
+> *Projet en cours de développement dans le cadre d'un apprentissage Java*
+
 ## 📋 Description
 
 Cette application Java console permet de créer, gérer et répondre à des questionnaires interactifs. Elle supporte deux types de questions :
@@ -129,8 +132,16 @@ Le projet inclut plusieurs fichiers d'exemple :
 
 ## 🤝 Contribution
 
-Ce projet a été développé dans le cadre d'un exercice académique. Pour contribuer :
+Ce projet a été développé dans le cadre d'un exercice académique de **première année de Java**. Il s'agit d'un **projet d'apprentissage en cours de développement**.
 
+**Objectifs pédagogiques :**
+- Maîtrise des concepts de base de Java (classes, objets, héritage)
+- Gestion des entrées/sorties console
+- Manipulation de fichiers
+- Gestion des dates avec `LocalDate`
+- Validation des saisies utilisateur
+
+Pour contribuer :
 1. Fork le projet
 2. Créez une branche pour votre fonctionnalité
 3. Committez vos changements
@@ -143,4 +154,7 @@ Pour toute question ou problème, veuillez consulter la documentation du code ou
 
 ## 📜 Licence
 
-Ce projet est développé à des fins éducatives.
+Ce projet est développé à des fins éducatives dans le cadre d'un cursus Java première année.
+
+---
+*Projet étudiant - Année académique 2024-2025*
